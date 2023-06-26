@@ -1,0 +1,2 @@
+Using the homogeneous coordinate system, project a ladder onto a walkway to reflect perspective transformation. 
+Then perform any of the affine transformations such as rotations, translation, reflection, and others on the projected ladder.
